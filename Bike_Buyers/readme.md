@@ -10,9 +10,9 @@ The dashboard also includes filters for marital status, region, and education, w
 
 **Skills Learned**
 
-* Data cleaning and formatting
-* Pivot table creation
-* Chart and graph creation
-* Dashboard design
+* Data cleaning and formatting\n
+* Pivot table creation\n
+* Chart and graph creation\n
+* Dashboard design\n
 * Slicer creation
 
